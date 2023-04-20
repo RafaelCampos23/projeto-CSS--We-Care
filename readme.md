@@ -1,6 +1,6 @@
 <h1 align="center">We Care</h1>
 
-[We are ONLINE, try Now](https://rafaelcampos23.github.io/projeto-CSS--We-Care/) :earth_americas:<br>
+[Estamos ONLINE, experimente agora](https://rafaelcampos23.github.io/projeto-CSS--We-Care/) :earth_americas:<br>
 
 <img src="https://github.com/RafaelCampos23/projeto-CSS--We-Care/blob/master/img/Projeto%20CSS%20-%20We%20Care.jpg?raw=true" alt="Imagem-projeto"></img>
 
