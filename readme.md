@@ -3,7 +3,7 @@
 <br>
 
 <h2><b>Sobre o projeto:</b></h2>
-<p>Projeto realizado no início do módulo de CSS do curso do <a href="https://rodolfomori.com.br/devclub">DevClub</a> e já conta com responsividade.</p>
+<p>Projeto realizado no início do módulo de CSS do curso do <a href="https://rodolfomori.com.br/devclub">DevClub</a> e já conta com responsividade. De início o projeto foi feito para computador e em seguida foram adicionados os parâmetros de responsividade.</p>
 <br>
 <br>
 
